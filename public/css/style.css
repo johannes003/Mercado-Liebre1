@@ -14,7 +14,7 @@
     font-family: 'Quicksand', sans-serif; 
   }
 
- /*Header*/
+
 
   header{
     background-color: var(--yellow);
@@ -117,8 +117,7 @@
     display: none;
   }
 
- 
-/* Main*/
+
 
 .login-form{
   display: none;
