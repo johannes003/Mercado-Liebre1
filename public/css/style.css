@@ -32,9 +32,7 @@
     color: var(--black);
   }
 
-  .nav-plus p a:hover{
-    color: var(--white);
-  }
+  
 
   .logo{
     width: 134px;
