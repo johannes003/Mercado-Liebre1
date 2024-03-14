@@ -6,7 +6,7 @@
     --hospital-green: #39b54a;
     --gris-oscuro: #666;
     --hex: #ebebeb;
-  }
+}
 
 * {
     box-sizing: border-box;
@@ -41,7 +41,7 @@ nav .logo {
     width: 200px;
     height: auto;
     margin-bottom: 20px;
-  }
+}
 
 .form {
     display: flex;

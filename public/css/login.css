@@ -14,7 +14,7 @@ body {
     background-color: #ebebeb;
   }
 
- 
+
 
   header{
     background-color: var(--yellow);
@@ -207,7 +207,7 @@ body {
   }
   
     .nav-plus p{
-     display: none;
+    display: none;
     }
   
     .menu{
@@ -262,4 +262,4 @@ body {
   
   
 
- 
+
